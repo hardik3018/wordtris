@@ -1,0 +1,41 @@
+.GameController {
+    position: absolute;
+    top: -100em;
+}
+
+button {
+    width: 60px;
+    background-color: aliceblue;
+    color: #006a47;
+    margin: 5% 5%;
+    z-index: 9999;
+    border: 0px;
+    border-radius: 5px;
+
+}
+
+img {
+    width: 40px;
+    padding: 5px;
+}
+
+button:hover {
+
+
+    background-color: rgb(138, 149, 158);
+
+}
+
+.para {
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000;
+    background-color: aliceblue;
+    margin-left: 5%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.keey {
+    color: rgb(255, 0, 0);
+}

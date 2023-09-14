@@ -1,0 +1,9 @@
+.Tetris {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.pane {
+  display: block;
+}
